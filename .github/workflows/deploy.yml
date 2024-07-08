@@ -29,8 +29,8 @@ jobs:
     - name: Start Suhail-Md
     
       env:
-          OWNER_NAME: 
-          OWNER_NUMBER:
+          OWNER_NAME: LordKay
+          OWNER_NUMBER:2347045505096
           SESSION_ID:
 
       run: npm start
